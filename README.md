@@ -12,7 +12,7 @@
 - <b>Using Python and SQL to set up an application </b>
   - [Customer Analysis Dashboard](https://github.com/JMJJ-projects/Customer-Analysis-Dashboard)
 - <b>Networking and Data Structures Practice</b>
-  - [Set up a stable server and client connection](https://github.com/JMJJ-projects/Stable-Server-Connection)
+  - [Set up a stable server and client connection](https://github.com/JMJJ-projects/Wikicomptine)
 - <b>Optimising using Algorithms</b>
   - [Optimising the Knapsack Problem in C](https://github.com/JMJJ-projects/Optimising-Algorithms-For-The-Knapsack-Problem)
 - <b>Complex problem solving in C </b>
