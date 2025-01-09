@@ -13,7 +13,7 @@
   - [Customer Analysis Dashboard](https://github.com/JMJJ-projects/Customer-Analysis-Dashboard)
 - <b>Networking and Data Structures Practice</b>
   - [Set up a stable server and client connection](https://github.com/JMJJ-projects/Stable-Server-Connection)
-- <b>Optimising using Algorithms (AlgoExpert)</b>
+- <b>Optimising using Algorithms</b>
   - [Optimising the Knapsack Problem in C](https://github.com/JMJJ-projects/Optimising-Algorithms-For-The-Knapsack-Problem)
 - <b>Complex problem solving in C </b>
   - [Creating a 2x2x4 Tower Cube Simulator](https://github.com/JMJJ-projects/2x2x4-Tower-Cube-Simulator)
