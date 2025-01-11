@@ -25,7 +25,7 @@
 [<img align="left" alt="John-Micahel Jeny Jeyaraj | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 [linkedin]: https://www.linkedin.com/in/jmjj/
-[gmail]: johnjenyjeyaraj@gmail.com
+[gmail]: mailto:johnjenyjeyaraj@gmail.com
 <!---
 
 [- 👋 Hi, I’m @JMJJ-projects
