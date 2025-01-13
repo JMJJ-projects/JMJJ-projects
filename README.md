@@ -1,6 +1,6 @@
 <h1>Hi, I'm John-Michael! </h1>
 
-</br> 3rd-year computer science student | Eager to put into practise my theoretical knowledge in an internship starting 26/05/2025 | Open to work-study opportunities from September 2025
+</br> 3rd-year computer science student | Eager to put into practise my theoretical knowledge in an internship starting 26/05/2025 | Open to apprenticeship opportunities from September 2025
 
 </br> 👀 I’m interested in cloud, AI and cybersecurity!
 
