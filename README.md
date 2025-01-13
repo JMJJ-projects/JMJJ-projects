@@ -8,7 +8,8 @@
 
 </br> ⚡ I have a good understanding of Data Structures, Algorithms, Networks, Data Analysis and general technical support (ranging from performing OS installations to repairing and upgrading PC components).
 <h2>👨‍💻 Software Development Projects:</h2>
-
+- <b> I've learnt a lot of HTML, CSS and Javascript
+  -[My personal website](https://jmjj-projects.github.io/?#index)
 - <b>Using Python and SQL to set up an application </b>
   - [Customer Analysis Dashboard](https://github.com/JMJJ-projects/Customer-Analysis-Dashboard)
 - <b>Networking and Data Structures Practice</b>
