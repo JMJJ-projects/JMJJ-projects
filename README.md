@@ -19,7 +19,7 @@
   - [Optimising the Knapsack Problem in C](https://github.com/JMJJ-projects/Optimising-Algorithms-For-The-Knapsack-Problem)
 - <b>Complex problem solving in C </b>
   - [Creating a 2x2x4 Tower Cube Simulator](https://github.com/JMJJ-projects/2x2x4-Tower-Cube-Simulator)
-- <b>My first attempt at a cloud storage project: Currently hosted on [PythonAnywhere](https://johnm123.pythonanywhere.com/dashboard)</b>
+- <b>My first attempt at a cloud storage project: Currently hosted on [PythonAnywhere](https://johnm123.pythonanywhere.com/mainpage)</b>
   - [Cloud Storage project](https://github.com/JMJJ-projects/projet-stockage-cloud)
 
 <h2> 🤳 Connect with me:</h2>
