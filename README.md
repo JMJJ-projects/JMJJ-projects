@@ -1,12 +1,12 @@
 <h1>Hi, I'm John-Michael! </h1>
 
-</br> 3rd-year computer science student | Eager to put into practise my theoretical knowledge in an internship starting 26/05/2025 | Open to apprenticeship opportunities from September 2025
+</br> Computer Science student in Masters | Open to apprenticeship opportunities from September 2025
 
 </br> 👀 I’m interested in cloud, AI and cybersecurity!
 
-</br> 🌱 I’m currently learning AWS, Kubernetes and Terraform! I am working on my AWS Cloud Practioner certificate!
+</br> 🌱 I’m currently making an AI based SIEM tool! I will try to fine tune a model to analyse suspicious log patterns.
 
-</br> ⚡ I have a good understanding of Data Structures, Algorithms, Networks, Data Analysis and general technical support (ranging from performing OS installations to repairing and upgrading PC components).
+</br> ⚡ I have a good understanding of Algorithms, Networks, Data Analysis, Machine Learning and general technical support (ranging from performing OS installations to repairing and upgrading PC components).
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>I've learnt a lot of HTML, CSS and Javascript</b>
@@ -19,6 +19,8 @@
   - [Optimising the Knapsack Problem in C](https://github.com/JMJJ-projects/Optimising-Algorithms-For-The-Knapsack-Problem)
 - <b>Complex problem solving in C </b>
   - [Creating a 2x2x4 Tower Cube Simulator](https://github.com/JMJJ-projects/2x2x4-Tower-Cube-Simulator)
+- <b>My first attempt at a cloud storage project</b>
+  - [Cloud Storage project](https://github.com/JMJJ-projects/projet-stockage-cloud)
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -28,17 +30,3 @@
 
 [linkedin]: https://www.linkedin.com/in/jmjj/
 [gmail]: mailto:johnjenyjeyaraj@gmail.com
-<!---
-
-[- 👋 Hi, I’m @JMJJ-projects
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-JMJJ-projects/JMJJ-projects is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
