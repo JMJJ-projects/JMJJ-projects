@@ -1,32 +1,47 @@
-<h1>Hi, I'm John-Michael! </h1>
+# Hi, I'm John-Michael 👋
 
-</br> Computer Science student in Masters | Open to internship opportunities from February 2026
+Master's student in **Computer & Network Systems** (Université d'Évry Paris-Saclay), working across
+**security**, **cloud** and **machine learning**. I like understanding systems all the way down,
+from compilers to formal verification.
 
-</br> 👀 I’m interested in cloud, AI and cybersecurity!
+🔎 **Open to a 6-month internship from January 2027** in AI, cybersecurity or software engineering.
 
-</br> 🌱 I’m currently making an AI based SIEM tool! I will try to fine tune a model to analyse suspicious log patterns.
+🌐 Portfolio (EN / FR): **[jmjjprojects.com](https://jmjjprojects.com)**
 
-</br> ⚡ I have a good understanding of Algorithms, Networks, Data Analysis, Machine Learning and general technical support (ranging from performing OS installations to repairing and upgrading PC components).
-<h2>👨‍💻 Software Development Projects:</h2>
+## ⭐ Featured projects
 
-- <b>I've learnt a lot of HTML, CSS and Javascript</b>
-  - [My personal website](https://jmjj-projects.github.io/?#index)
-- <b>Using Python and SQL to set up an application </b>
-  - [Customer Analysis Dashboard](https://github.com/JMJJ-projects/Customer-Analysis-Dashboard)
-- <b>Networking and Data Structures Practice</b>
-  - [Setting up a stable server and client connection](https://github.com/JMJJ-projects/Wikicomptine)
-- <b>Optimising using Algorithms</b>
-  - [Optimising the Knapsack Problem in C](https://github.com/JMJJ-projects/Optimising-Algorithms-For-The-Knapsack-Problem)
-- <b>Complex problem solving in C </b>
-  - [Creating a 2x2x4 Tower Cube Simulator](https://github.com/JMJJ-projects/2x2x4-Tower-Cube-Simulator)
-- <b>My first attempt at a cloud storage project: Currently hosted on [PythonAnywhere](https://johnm123.pythonanywhere.com/mainpage)</b>
-  - [Cloud Storage project](https://github.com/JMJJ-projects/projet-stockage-cloud)
+| Project | What it is | Stack |
+|---|---|---|
+| 🛡️ **[CVE Triage Agent](https://github.com/JMJJ-projects/cve-triage-agent)** · *new* | LangGraph agent that triages a CVE ID, a vulnerability report or a code snippet into a severity, a route (alert / human review / archive) and an advisory fix. NVD data beats LLM guesses, input is never executed, runs fully offline. 177 tests, honest evaluation on 35 labelled cases. | Python, LangGraph, LangChain, Pydantic, SQLite |
+| 🔐 **[StockageCloud](https://github.com/JMJJ-projects/StockageCloud)** | Self-hostable cloud storage where every file is encrypted at rest (AES-256-GCM envelope encryption) and tamper-checked on download. CSRF protection, brute-force lockout, expiring share links, 25 tests, Docker. | Python, Flask, cryptography, SQLite |
+| 🧮 **[On-the-fly CTL model checking](https://jmjjprojects.com/projects/ctl/poster.pdf)** | M1 research project: verifying CTL properties on acyclic Kripke structures without building the whole state space. Proofs of formula simplifications + C implementation. | C, formal methods |
+| 📈 **[Exam score prediction (Kaggle)](https://github.com/JMJJ-projects/kaggle-exam-score)** | 2-level stacking ensemble (HGBR, XGBoost, Ridge, LinearSVR, RealMLP) on 630k rows. Public RMSE 8.624, top ~15% of ~4,300 teams. | scikit-learn, XGBoost, PyTorch |
+| ⚙️ **[Mini-JS compiler & VM](https://github.com/JMJJ-projects/mini-js-compiler)** | JavaCC compiler from a JavaScript subset to stack-machine assembly, with constant folding and a virtual machine to run it. | Java, JavaCC |
 
-<h2> 🤳 Connect with me:</h2>
+<details>
+<summary><b>More projects</b></summary>
 
-[<img align="left" alt="John-Micahel Jeny Jeyaraj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- **[EduMind](https://github.com/JMJJ-projects/edumind)**: grade & exam platform: requirements, UML, Scrum, and clickable prototypes ([live demo](https://jmjjprojects.com/edumind/))
+- **[Clustering IoT sensor data](https://jmjjprojects.com/projects/clustering/)**: K-means, hierarchical and spectral clustering on 62k smoke-detector readings
+- **[Restaurant Petri net](https://jmjjprojects.com/projects/petri-net/report.pdf)**: discrete-event model of a fast-food restaurant
+- **[Customer Analysis Dashboard](https://github.com/JMJJ-projects/Customer-Analysis-Dashboard)**: Python + SQL data insights for small businesses
+- **[Wikicomptine](https://github.com/JMJJ-projects/Wikicomptine)**: real-time client–server document store in C with semaphores
+- **[Knapsack algorithms](https://github.com/JMJJ-projects/Optimising-Algorithms-For-The-Knapsack-Problem)**: comparing exact and greedy solutions in C
+- **[2x2x4 Tower Cube simulator](https://github.com/JMJJ-projects/2x2x4-Tower-Cube-Simulator)**: puzzle simulator and solver in C
+- **[STRUGGLE](https://jmjjprojects.com/Struggle/struggle.html)**: a browser runner game fused with a manga wiki
 
-[<img align="left" alt="John-Micahel Jeny Jeyaraj | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+</details>
 
-[linkedin]: https://www.linkedin.com/in/jmjj/
-[gmail]: mailto:johnjenyjeyaraj@gmail.com
+## 🧰 Toolbox
+
+**Languages:** Python · C · Java · SQL · JavaScript · HTML/CSS  
+**Frameworks & tools:** LangGraph · LangChain · Flask · scikit-learn · XGBoost · PyTorch · pandas · JavaCC · Docker · Git · GitHub Actions · Linux  
+**Fundamentals:** algorithms & data structures · networks (TCP/IP, VPN, firewalls) · applied cryptography · formal verification · UML & Scrum
+
+Outside code I refurbish old laptops, play tabletop RPGs, and used to play club chess.
+
+## 📫 Contact
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-jmjjprojects.com-9a7650?style=flat-square)](https://jmjjprojects.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jmjj-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmjj/)
+[![Email](https://img.shields.io/badge/Email-johnjenyjeyaraj%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:johnjenyjeyaraj@gmail.com)
