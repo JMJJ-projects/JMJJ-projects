@@ -4,7 +4,7 @@ Master's student in **Computer & Network Systems** (Université d'Évry Paris-Sa
 **security**, **cloud** and **machine learning**. I like understanding systems all the way down,
 from compilers to formal verification.
 
-🔎 **Open to a 6-month internship from January 2027** in AI, cybersecurity or software engineering.
+🔎 **Open to a 6-month internship from February 2027** in AI, cybersecurity or software engineering.
 
 🌐 Portfolio (EN / FR): **[jmjjprojects.com](https://jmjjprojects.com)**
 
