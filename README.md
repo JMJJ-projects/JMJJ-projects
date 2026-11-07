@@ -1,6 +1,6 @@
 <h1>Hi, I'm John-Michael! </h1>
 
-</br> Computer Science student in Masters | Open to apprenticeship opportunities from September 2025
+</br> Computer Science student in Masters | Open to internship opportunities from February 2026
 
 </br> 👀 I’m interested in cloud, AI and cybersecurity!
 
