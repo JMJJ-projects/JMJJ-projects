@@ -14,7 +14,7 @@ from compilers to formal verification.
 |---|---|---|
 | 🧪 **[Simulation Agent](https://github.com/JMJJ-projects/sim-agent)** · *new* | Ask a simulation question in plain language: the agent writes Python, runs it in a locked-down Docker sandbox and repairs it from the error output. Runs on 4 GB local models or hosted ones, and works as an MCP server. Benchmarked on 36 tasks: repair loop 7→20/36 on a local 3B model, gpt-oss-120b 36/36 ([results](https://github.com/JMJJ-projects/sim-agent/blob/main/docs/eval_results.md)). | Python, LangGraph, Ollama, Docker, MCP |
 | 🛡️ **[CVE Triage Agent](https://github.com/JMJJ-projects/cve-triage-agent)** | LangGraph agent that triages a CVE ID, a vulnerability report or a code snippet into a severity, a route (alert / human review / archive) and an advisory fix. NVD data beats LLM guesses, input is never executed, runs fully offline. 177 tests, honest evaluation on 35 labelled cases. | Python, LangGraph, LangChain, Pydantic, SQLite |
-| 🔐 **[StockageCloud](https://github.com/JMJJ-projects/StockageCloud)** | Self-hostable cloud storage where every file is encrypted at rest (AES-256-GCM envelope encryption) and tamper-checked on download. CSRF protection, brute-force lockout, expiring share links, 25 tests, Docker. [Live demo](https://johnm123.pythonanywhere.com/mainpage) | Python, Flask, cryptography, SQLite |
+| 🔐 **[StockageCloud](https://github.com/JMJJ-projects/StockageCloud)** | Team project (3 people, 2025) that I reworked solo in 2026: self-hostable cloud storage where every file is encrypted at rest (AES-256-GCM envelope encryption) and tamper-checked on download. CSRF protection, brute-force lockout, expiring share links, 25 tests, Docker. [Live demo](https://johnm123.pythonanywhere.com/mainpage) | Python, Flask, cryptography, SQLite |
 | 🧮 **[On-the-fly CTL model checking](https://jmjjprojects.com/projects/ctl/poster.pdf)** | M1 research project: verifying CTL properties on acyclic Kripke structures without building the whole state space. Proofs of formula simplifications + C implementation. | C, formal methods |
 | 📈 **[Exam score prediction (Kaggle)](https://github.com/JMJJ-projects/kaggle-exam-score)** | 2-level stacking ensemble (HGBR, XGBoost, Ridge, LinearSVR, RealMLP) on 630k rows. Public RMSE 8.624, top ~15% of ~4,300 teams. | scikit-learn, XGBoost, PyTorch |
 | ⚙️ **[Mini-JS compiler & VM](https://github.com/JMJJ-projects/mini-js-compiler)** | JavaCC compiler from a JavaScript subset to stack-machine assembly, with constant folding and a virtual machine to run it. | Java, JavaCC |
@@ -27,9 +27,6 @@ from compilers to formal verification.
 - **[Restaurant Petri net](https://jmjjprojects.com/projects/petri-net/report.pdf)**: discrete-event model of a fast-food restaurant
 - **[Customer Analysis Dashboard](https://github.com/JMJJ-projects/Customer-Analysis-Dashboard)**: Python + SQL data insights for small businesses
 - **[Wikicomptine](https://github.com/JMJJ-projects/Wikicomptine)**: real-time client–server document store in C with semaphores
-- **[Knapsack algorithms](https://github.com/JMJJ-projects/Optimising-Algorithms-For-The-Knapsack-Problem)**: comparing exact and greedy solutions in C
-- **[2x2x4 Tower Cube simulator](https://github.com/JMJJ-projects/2x2x4-Tower-Cube-Simulator)**: puzzle simulator and solver in C
-- **[STRUGGLE](https://jmjjprojects.com/Struggle/struggle.html)**: a browser runner game fused with a manga wiki
 
 </details>
 
